@@ -1,1 +1,6 @@
-# GDSC_CSS_CHRISTMAS-TREE
+# CSS Battle
+"CHRISTMAS-TREE"
+## Author
+Name- "Sayandeep Pal" <br>
+Branch- "CSE Data Science" <br>
+Year- "2nd"
